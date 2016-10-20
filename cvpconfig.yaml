@@ -1,9 +1,9 @@
 version: 1
 
 cvp_setting:
-   cvphost: 192.168.100.199
+   cvphost: cvp201612-furtakcvp201612-bczsuyux.srv.ravcloud.com
    cvpuser: cvpadmin
    cvppasswd: arista
    settings_configlet: jj_config
-   dhcpprefixlen: /23
-   mgmt_gw: 10.253.134.1
+   dhcpprefixlen: /24
+   mgmt_gw: 10.0.0.1
