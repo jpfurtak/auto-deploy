@@ -1,0 +1,9 @@
+version: 1
+
+cvp_setting:
+   cvphost: 192.168.100.199
+   cvpuser: cvpadmin
+   cvppasswd: arista
+   settings_configlet: jj_config
+   dhcpprefixlen: /23
+   mgmt_gw: 10.253.134.1
